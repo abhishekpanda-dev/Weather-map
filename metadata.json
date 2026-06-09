@@ -1,0 +1,6 @@
+{
+  "name": "Weather Map",
+  "description": "A polished real-time weather map dashboard with interactive OpenWeather Map layers, detailed forecasts, historical statistics, and AI-powered weather summaries.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
